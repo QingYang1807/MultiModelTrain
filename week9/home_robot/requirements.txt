@@ -1,0 +1,16 @@
+# 家居机器人依赖
+torch>=1.9.0
+torchvision>=0.10.0
+transformers>=4.30.0
+diffusers>=0.20.0
+gradio>=3.40.0
+opencv-python>=4.7.0
+Pillow>=9.0.0
+numpy>=1.21.0
+tqdm>=4.64.0
+matplotlib>=3.5.0
+
+# 可选依赖（用于完整功能）
+# groundingdino-py>=0.1.0
+# accelerate>=0.20.0
+# bitsandbytes>=0.39.0

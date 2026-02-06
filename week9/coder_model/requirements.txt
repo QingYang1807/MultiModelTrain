@@ -1,0 +1,14 @@
+# Code Alpaca LoRA 微调依赖
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.14.0
+accelerate>=0.20.0
+peft>=0.6.0
+bitsandbytes>=0.39.0
+loralib>=0.1.0
+wandb>=0.15.0
+tqdm>=4.64.0
+
+# 可选依赖
+# torch.cuda  # 如果使用 CUDA
+# deepspeed   # 如果使用 ZeRO 优化
