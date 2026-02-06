@@ -6,3 +6,7 @@ week2/2-CV/data/
 作业答案.zip
 
 venv_home_robot/
+
+# Large model outputs
+week9/coder_model/outputs/
+.claude
